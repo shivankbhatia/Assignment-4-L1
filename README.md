@@ -1,5 +1,5 @@
 # Learning Probability Density Functions using GAN  
-### __{NO₂ Concentration – India Air Quality Dataset}__
+ ### _{NO₂ Concentration – India Air Quality Dataset}_
 
 ## Objective
 
