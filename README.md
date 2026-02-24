@@ -72,12 +72,12 @@ Architecture:
 - Output: Probability of being real
 
 Architecture:
-Linear(1 → 32)
-LeakyReLU(0.2)
-Linear(32 → 16)
-LeakyReLU(0.2)
-Linear(16 → 1)
-Sigmoid
+-> Linear(1 → 32)
+-> LeakyReLU(0.2)
+-> Linear(32 → 16)
+-> LeakyReLU(0.2)
+-> Linear(16 → 1)
+-> Sigmoid
 
 
 ---
