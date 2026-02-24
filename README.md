@@ -57,11 +57,11 @@ A **Vanilla GAN (Binary Cross Entropy loss)** was used for stable 1D density lea
 - Output: Synthesized scalar \( z_f \)
 
 Architecture:
-Linear(5 → 16)
-ReLU
-Linear(16 → 32)
-ReLU
-Linear(32 → 1)
+-> Linear(5 → 16)
+-> ReLU
+-> Linear(16 → 32)
+-> ReLU
+-> Linear(32 → 1)
 
 
 ---
