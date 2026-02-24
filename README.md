@@ -111,7 +111,7 @@ After training:
 
 ## Results
 
-[GAN PDF Output](./pdf_plot.png)
+![GAN PDF Output](./pdf_plot.png)
 - Training losses stabilized over epochs.
 - Generated distribution approximated the real transformed distribution.
 - KDE curves showed reasonable overlap.
